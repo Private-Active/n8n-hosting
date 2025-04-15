@@ -51,6 +51,4 @@ services:
 volumes:
   db_storage:
   caddy_data:
-    external: true
   n8n_data:
-    external: true
